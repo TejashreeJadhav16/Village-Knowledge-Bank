@@ -6,7 +6,7 @@ This project is a modern, responsive web application built using **HTML, CSS, Ja
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 1. **Earthy & Animated Visual Design**
    - Theme inspired by traditional Indian villages, nature, and heritage colors (Terracotta, Saffron Gold, Leaf Green, and warm Sand/Cream background).
@@ -50,7 +50,7 @@ This project is a modern, responsive web application built using **HTML, CSS, Ja
 
 ---
 
-## 🚀 Setup & Execution
+##  Setup & Execution
 
 ### 1. Prerequisite Checks
 Make sure you have **Node.js** (v18+) and **npm** installed on your system.
@@ -91,7 +91,7 @@ Server is running at http://localhost:3000
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── .env                  # Configuration variables
