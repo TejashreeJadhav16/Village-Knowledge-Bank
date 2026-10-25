@@ -7,7 +7,7 @@ Preserving and sharing traditional village knowledge, culture, and wisdom from e
 This project is a modern, responsive web application built using **HTML, CSS, JavaScript, Bootstrap 5, Node.js, Express.js**, and supports both **MySQL and SQLite** databases.
 
 ---
-
+[![Architecture diagram of tejashreejadhav16/village-knowledge-bank](https://gitdiagram.com/tejashreejadhav16/village-knowledge-bank/diagram.png)](https://gitdiagram.com/tejashreejadhav16/village-knowledge-bank?utm_source=readme&utm_medium=picture)
 #  Project Demo Video
 
 [![Watch Demo](https://img.shields.io/badge/Demo_Video-Play_on_Google_Drive-red?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1kJsx0Rq3wfJNxj6Ag_IN95ZfKgXFXlqs/view?usp=drive_link)
